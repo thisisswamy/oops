@@ -1,0 +1,12 @@
+.movie-cart{
+    width: 250px;
+    height:400px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px  darkgray;
+    display:flexbox;
+}
+img{
+    max-width: 100%;
+    height: 85%;
+}
